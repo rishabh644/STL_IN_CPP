@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599448488 source:c:\programs\lrnmultimap\main.cpp
+	<iostream>
+	<map>
+	<algorithm>
+
